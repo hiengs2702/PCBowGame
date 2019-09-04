@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SkeletalMeshData",
+			"Enabled": false
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
+		}
+	]
+}
