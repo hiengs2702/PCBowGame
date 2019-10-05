@@ -11,6 +11,14 @@
 		{
 			"Name": "HoudiniEngine",
 			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemOculus",
+			"Enabled": true
+		},
+		{
+			"Name": "RenderDocPlugin",
+			"Enabled": true
 		}
 	]
 }
